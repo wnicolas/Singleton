@@ -1,3 +1,4 @@
+//Ejemplo Singleton
 package ejemplo;
 
 public class Main {
@@ -10,7 +11,7 @@ public class Main {
 		Saludo instancia4=Saludo.getinstancia();
 		
 		//Invocación del método setDatos de la instancia 1
-		instancia1.setDatos(4,3);
+		instancia1.setDatos(4,9);
 		
 		//Invocación del método setMensaje de la instancia 2
 		instancia2.setMensaje("La suma es: ");
