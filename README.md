@@ -1,1 +1,1 @@
-Ejemplo singleton Elaborado por Nicolás Buitrago, Diego Galeano, Diego Lizarazo con código de estudiantes 20172020079, 20172020074 y 20172020093 respectivamente.
+Ejemplo singleton Elaborado por Nicolás Buitrago 20172020079, Diego Galeano 20172020074, Diego Lizarazo 20172020093.
